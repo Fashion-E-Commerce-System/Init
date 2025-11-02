@@ -1,0 +1,2 @@
+FROM openjdk:25-jdk
+CMD ["tail","-f","/dev/null"]
